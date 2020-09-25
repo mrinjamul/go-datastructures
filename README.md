@@ -1,3 +1,3 @@
 # Go Data Structures
 
-Data structures implementations in golang
+Currently Availables : Queue, Set, and Stack
